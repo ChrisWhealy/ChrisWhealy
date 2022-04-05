@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ChrisWhealy
+- 👀 I’m interested in WebAssembly, Rust and Kotlin
+- Outside work, I play the drums, do sound engineering, post-production and live streaming (not all at the same time though...)
