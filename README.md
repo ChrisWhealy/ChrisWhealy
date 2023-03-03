@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @ChrisWhealy
+- I work as a Technical Specialist for [lighthouse.no](https://lighthouse.no) in the areas of SAP's Cloud Application Programming Model (CAP), Business Technology Platform (BTP) and integration with non-SAP environments
 - 👀 I’m interested in WebAssembly, Rust and Kotlin
 - Outside work, I play the drums, do sound engineering, post-production and live streaming (not all at the same time though...)
