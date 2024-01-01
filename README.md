@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ChrisWhealy
-- I work as a Technical Specialist for [lighthouse.no](https://lighthouse.no) in the areas of SAP's Business Technology Platform (BTP) and integration with non-SAP environments
+- 👀 I'm open to work as a developer using Rust (WebAssembly) or Kotlin or Typescript/JavaScript.
+- I have worked most expensively in the areas of cross-system communication and APIs
 - [Technical writer and blogger](https://awesome.red-badger.com/)
-- 👀 I’m interested in WebAssembly, Rust and Kotlin
 - Outside work, I play the drums, do sound engineering, post-production and live streaming (not all at the same time though...)
