@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ChrisWhealy
 - 👀 I'm open to work as a developer using Rust (WebAssembly) or Kotlin or Typescript/JavaScript.
-- I have worked most expensively in the areas of cross-system communication and APIs
+- I have worked most extensively in the areas of cross-system communication and APIs
 - [Technical writer and blogger](https://awesome.red-badger.com/)
 - Outside work, I play the drums, do sound engineering, post-production and live streaming (not all at the same time though...)
